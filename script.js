@@ -1,0 +1,1 @@
+console.log("divisible by 3 AND 5")
