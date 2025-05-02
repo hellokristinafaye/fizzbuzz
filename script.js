@@ -1,1 +1,1 @@
-console.log("divisible by 3 AND 5")
+let answer = parseInt(prompt("Please enter the number to which you want FizzBuzz to count to:"));
